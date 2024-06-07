@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PyCharmRepo\\Fairness-testing-main\\DICE\\fairness_improvement\\pretrained_model\\default\\999\\test.model"
+all_model_checkpoint_paths: "D:\\PyCharmRepo\\Fairness-testing-main\\DICE\\fairness_improvement\\pretrained_model\\default\\999\\test.model"
